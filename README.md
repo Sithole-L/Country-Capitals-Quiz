@@ -19,7 +19,7 @@ A collection of **country → capital** pairs is stored in a dictionary.
 
 Each question randomly:
 - Selects a country  
-- Generates multiple‑choice answers (1 correct + 3 incorrect)
+- Generates multiple‑choice answers (1 correct + 3 incorrect)<br>
 The user is then prompted to make their selection 
 
 The quiz:
